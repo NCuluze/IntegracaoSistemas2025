@@ -1,4 +1,4 @@
-NSTRUÇÕES DE EXECUÇÃO DO CÓDIGO
+INSTRUÇÕES DE EXECUÇÃO DO CÓDIGO
 Sistema de Votação Eletrónica (gRPC)
 
 1. PRÉ-REQUISITOS
